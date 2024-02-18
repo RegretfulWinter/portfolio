@@ -1,60 +1,57 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "name": "Jiehui Ma",
+    "role": "passionate full-stack developer seeking entry-level software engineer roles",
+    "linkedinId":"jiehuima",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I like dabbling in various parts of frontend and backend development.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/jiehuima/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/regretfulwinter",
           "className":"fa fa-github"
         },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
-        }
+
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am passionate about using technologies to improve people's manual work efficiency. My skills are mainly at full-stack and backend software development. Proficient in Python, Java, Kotlin and JavaScript under agile principles, I have acquired various tech stacks such as MERN, Python Flask/Django/Bottle/Fast API, Spring Boot Microservice, also databases such as SQL (Postgres, MySQL), MongoDB and Google Firebase, cloud-related developer tools such as Docker, GKE, GCP and AWS.",
+    "address":"Santa Clara, CA",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Santa Clara University",
+        "specialization":"Computer Science and Engineering",
+        "MonthOfPassing":"Jun",
+        "YearOfPassing":"2024",
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Shanghai University of International Business and Economics",
+        "specialization":"Finance and Statistics",
+        "MonthOfPassing":"Jun",
+        "YearOfPassing":"2020",
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Peloton Interactive",
+        "specialization":"Backend Engineer Intern @Journeycloud Team",
+        "MonthOfLeaving":"Aug",
+        "YearOfLeaving":"2023",
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Digital Product School by University of Munich",
+        "specialization":"Full-stack Engineer Intern @Bavarian State of Digital Affairs",
+        "MonthOfLeaving":"Aug",
+        "YearOfLeaving":"2022",
+      },
+      {
+        "CompanyName":"PwC",
+        "specialization":"Software Engineer Associate @X-Venture",
+        "MonthOfLeaving":"Jun",
+        "YearOfLeaving":"2021",
       }
     ],
     "skillsDescription":"Your skills here",
@@ -90,17 +87,8 @@ let resumeData = {
         "description":"mobileapp",
         "imgurl":"images/portfolio/phone.jpg"
       }
-    ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
     ]
+  
   }
   
   export default resumeData
